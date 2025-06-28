@@ -4,7 +4,7 @@ I'm a backend developer.
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Python, Java, JavaScript, HTML/CSS, C, C++
+- **Languages**: Python, Java, JavaScript, C, C++
 - **Frameworks**: Django, Spring Boot  
 - **Databases**: PostgreSQL, SQLite, MongoDB  
 - **Tools**: Git & GitHub, Docker, Postman, RabbitMQ  
